@@ -19,7 +19,6 @@ load_dotenv()
 
 login(token=os.getenv("HF_TOKEN"))
 
-
 # Tool to suggest a menu based on the occasion
 @tool
 def suggest_menu(occasion: str) -> str:
