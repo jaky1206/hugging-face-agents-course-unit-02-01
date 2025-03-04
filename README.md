@@ -38,7 +38,7 @@ python -m venv huggingface_agents_course-unit-02-01
 ### Activate the environment
 - On Windows:
   ```shell
-  huggingface_agents_course-unit-02-01\Scripts\activate
+  .\huggingface_agents_course-unit-02-01\Scripts\activate
   ```
 - On macOS/Linux:
   ```shell
